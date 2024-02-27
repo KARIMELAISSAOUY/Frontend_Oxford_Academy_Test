@@ -116,11 +116,16 @@ I'm thrilled to announce that I have successfully passed the front-end test from
 
 
 ### Live :
-<video width="500" height="340" controls>
-  <source src="https://github.com/KARIMELAISSAOUY/Frontend_Oxford_Academy_Test/Oxfordacademy_uk/socialmediatest.mp4" type="video/mp4">
+
+![Click to play video](socialmediatest.mp4)
+
+<video width="520" height="240" controls>
+  <source src="socialmediatest.mp4" type="video/mp4">
+</video>
+
 <br>
 
-    <br>
+
 <div align="center">
 
 **Final Result: 👨‍💻** 
@@ -147,7 +152,7 @@ I'm thrilled to announce that I have successfully passed the front-end test from
 <img src="karim/hrc.gif">
 
 <div align="center">
-    Made with ❤️ By <a href="https://deri.my.id" target="_blank">KARIM</a>
+    Made with ❤️ By <a href="#">KARIM</a>
 </div>
 
 <img src="karim/hrc.gif">
