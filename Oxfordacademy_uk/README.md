@@ -24,13 +24,10 @@ new Candidate({
 I'm thrilled to announce that I have successfully passed the front-end test from the Oxford Academy, achieving a remarkable score of 100%. This accomplishment reflects my dedication, skill, and depth of understanding in front-end development. I am excited about the opportunities this success will open for me in the world of web development & web design
 ```
 
+# Frontend Test
 
-<p align="center">
-  <em>
- #Frontend Test <br>
-</p>
 
-##Exercise 1 <br> 
+## Exercise 1 <br> 
 <p>
   <code>The role of HTML is to...</code><br>
     - [ ] Format text <br>
