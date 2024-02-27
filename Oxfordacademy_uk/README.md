@@ -15,7 +15,7 @@ new Candidate({
     name   : 'KARIM',
     academy : 'Oxford Academy ',
     exam   : 'FrontEnd',
-    center : 'https://bitlie.deri.my.id/portfolio',
+    center : 'https://oxfordacademytd.co.uk',
     passed : 'Done 100%',
 }).Passed();
 ```
@@ -27,97 +27,96 @@ I'm thrilled to announce that I have successfully passed the front-end test from
 
 <p align="center">
   <em>
- 
+ #Frontend Test <br>
 </p>
 
-#Frontend Test
-##Exercise 1
+##Exercise 1 <br> 
 <p>
-  <code>The role of HTML is to...</code>
-    - [ ] Format text
-    - [x] Organize content
+  <code>The role of HTML is to...</code><br>
+    - [ ] Format text <br>
+    - [x] Organize content <br>
     - [ ] Create e-commerce websites
 </p>
 <p>
-  <code>To define a title WITHIN an HTML page, We use...</code>
-    - [ ] The title element
-    - [ ] The head element
+  <code>To define a title WITHIN an HTML page, We use...</code><br>
+    - [ ] The title element<br>
+    - [ ] The head element<br>
     - [x] An h1, h2, ... h6 element
 </p>
 <p>
-  <code>To create a link to the Wikipedia homepage, we would write...</code>
-    - [ ] <a target="http://wikipedia.org">Wikipédia</a>
-    - [ ] <a href="http://wikipedia.org">
-    - [x] <a href="http://wikipedia.org">Wikipédia</a>
+ <code>Which CSS property is used to change the background color of an element?</code>
+    - [ ] color <br>
+    - [x] background-color <br>
+    - [ ] border-color
 </p>
 
 <p>
-  <code>When you use the '<a>' element, you must specify...</code>
-    - [ ] An attribute target
-    - [x] An attribute href
+  <code>When you use the '<a>' element, you must specify...</code><br>
+    - [ ] An attribute target<br>
+    - [x] An attribute href<br>
     - [ ] Two attributes href and target
 </p>
 
 <p>
-  <code>Which elements are necessary to create an unordered list?</code>
-    - [x] ul and li
-    - [ ] ol and li
+  <code>Which elements are necessary to create an unordered list?</code><br>
+    - [x] ul and li <br>
+    - [ ] ol and li <br>
     - [ ] ul and ol
 
 </p>
 
 <p>
-  <code>What is the purpose of the alt attribute of the img element?</code>
-    - [x] To provide a description of the image if it cannot be displayed
-    - [ ] To provide an alternative link to the image if the first one is broken
+  <code>What is the purpose of the alt attribute of the img element?</code><br>
+    - [x] To provide a description of the image if it cannot be displayed <br>
+    - [ ] To provide an alternative link to the image if the first one is broken <br>
     - [ ] To display a second image if the first one cannot be displayed
 
 </p>
 
 <p>
-  <code>What property in CSS is used to change the color of text?</code>
-    - [ ] font-family
-    - [ ] text-align
+  <code>What property in CSS is used to change the color of text?</code><br>
+    - [ ] font-family <br>
+    - [ ] text-align <br>
     - [x] color
 </p>
 
 <p>
-  <code>Which CSS property is used to control the spacing between lines of text?</code>
-    - [ ] text-align
-    - [x] line-height
-    - [ ] margin
+  <code>Which CSS property is used to control the spacing between lines of text?</code><br>
+    - [ ] text-align <br>
+    - [x] line-height <br>
+    - [ ] margin 
 </p>
 
 <p>
-  <code>Which HTML tag is used to create a hyperlink?</code>
-    - [x] a
-    - [ ] link
+  <code>Which HTML tag is used to create a hyperlink?</code> <br>
+    - [x] a <br>
+    - [ ] link <br>
     - [ ] href
 </p>
 
 <p>
-  <code>Which CSS property is used to make text bold?</code>
-    - [ ] font-weight
-    - [x] font-style
+  <code>Which CSS property is used to make text bold?</code> <br>
+    - [ ] font-weight <br>
+    - [x] font-style <br>
     - [ ] text-decoration
 </p>
 
 <p>
-  <code>Which CSS property is used to add space around an element's content, inside of its border?</code>
-    - [ ] padding
-    - [ ] margin
-    - [x] border-spacing
+  <code>Which CSS property is used to add space around an element's content, inside of its border?</code> <br>
+    - [ ] padding <br>
+    - [ ] margin <br>
+    - [x] border-spacing 
 </p>
 <br>
 <p>
-<code>Write the HTML and CSS code that allows you to create the following module:</code>
- <img src="karim/socialm.jpg" align="center" width="500">
+<code>Write the HTML and CSS code that allows you to create the following module:</code> <br>
+ <img src="karim/socialm.jpg" align="center" width="500"> 
 </p>
 <br>
 
 <img src="karim/hrc.gif">
 
-<video width="auto" height="auto" src="karim/socialmediatest.mp4"></video>
+<video width="500" height="650" src="karim/socialmediatest.mp4"></video>
 
 <br>
 <div align="center">
@@ -125,7 +124,7 @@ I'm thrilled to announce that I have successfully passed the front-end test from
 **Final Result: 👨‍💻** 
 
 ```text
-⭐️ HTML                   Passed successfully✔️        █████████████████████████   100 %  
+⭐️ HTML                   Passed successfully✔️        █████████████████████████   100 %
 ⭐️ CSS                    Passed successfully✔️        █████████████████████████   100 % 
 ⭐️ PRACTICAL              Passed successfully✔️        █████████████████████████   100 %  
 ⭐️ THEORETICAL            Passed successfully✔️        █████████████████████████   100 %  
@@ -142,8 +141,6 @@ I'm thrilled to announce that I have successfully passed the front-end test from
 </p>
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
-![Commit Snake History SVG](https://raw.githubusercontent.com/karimelaissaouy/karimelaissaouy/output/github-snake.svg)
 
 <img src="karim/hrc.gif">
 
