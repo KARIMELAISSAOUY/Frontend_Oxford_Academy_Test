@@ -106,12 +106,19 @@ I'm thrilled to announce that I have successfully passed the front-end test from
 </p>
 <br>
 <p>
-<code>Write the HTML and CSS code that allows you to create the following module:</code> <br>
+<code>Write the HTML and CSS code that allows you to create the following module:</code>
+<br>
  <img src="karim/socialm.jpg" align="center" width="500"> 
 </p>
 <br>
 
 <img src="karim/hrc.gif">
+
+
+### Live :
+![Click to play video](https://github.com/KARIMELAISSAOUY/Frontend_Oxford_Academy_Test/Oxfordacademy_uk/socialmediatest.mp4)
+
+
 
 <video width="500" height="650" src="karim/socialmediatest.mp4"></video>
 
