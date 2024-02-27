@@ -115,13 +115,15 @@ I'm thrilled to announce that I have successfully passed the front-end test from
 <img src="karim/hrc.gif">
 
 
+<br>
+
 ### Live :
 
- 
-https://github.com/KARIMELAISSAOUY/Frontend_Oxford_Academy_Test/assets/118484209/81a7200e-312d-444b-8657-7e9df533898c
 
 
-<br>
+https://github.com/KARIMELAISSAOUY/Frontend_Oxford_Academy_Test/assets/118484209/680b4f09-562b-4b5a-be89-ba36b1a43ee8
+
+
 
 
 <div align="center">
@@ -154,3 +156,9 @@ https://github.com/KARIMELAISSAOUY/Frontend_Oxford_Academy_Test/assets/118484209
 </div>
 
 <img src="karim/hrc.gif">
+
+
+
+
+
+
