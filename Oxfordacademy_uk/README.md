@@ -41,7 +41,7 @@ I'm thrilled to announce that I have successfully passed the front-end test from
     - [x] An h1, h2, ... h6 element
 </p>
 <p>
- <code>Which CSS property is used to change the background color of an element?</code>
+ <code>Which CSS property is used to change the background color of an element?</code> <br>
     - [ ] color <br>
     - [x] background-color <br>
     - [ ] border-color
@@ -117,11 +117,9 @@ I'm thrilled to announce that I have successfully passed the front-end test from
 
 ### Live :
 
-![Click to play video](socialmediatest.mp4)
+ 
+https://github.com/KARIMELAISSAOUY/Frontend_Oxford_Academy_Test/assets/118484209/2930de43-ef51-4571-bb53-bde39c212685
 
-<video width="520" height="240" controls>
-  <source src="socialmediatest.mp4" type="video/mp4">
-</video>
 
 <br>
 
